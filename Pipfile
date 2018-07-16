@@ -1,12 +1,12 @@
 [[source]]
-url = "https://github.com/imamdigmi/python-esmy"
+url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
 [packages]
-mysql-replication = "*"
-elasticsearch = "*"
 pyyaml = "*"
+elasticsearch = "*"
+mysql-replication = "*"
 
 [dev-packages]
 
